@@ -1,0 +1,70 @@
+d:\users\lolic\documents\visual studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.exe.config
+d:\users\lolic\documents\visual studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.exe
+d:\users\lolic\documents\visual studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.pdb
+d:\users\lolic\documents\visual studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.csprojResolveAssemblyReference.cache
+d:\users\lolic\documents\visual studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Properties.Resources.resources
+d:\users\lolic\documents\visual studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.csproj.GenerateResource.Cache
+d:\users\lolic\documents\visual studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.exe
+d:\users\lolic\documents\visual studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.pdb
+D:\Users\lolic\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.MfrmPrincipalMenu.resources
+D:\Users\lolic\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmProveedores.resources
+D:\Users\lolic\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionEquipos.MfrmGestionEquipos.resources
+D:\Users\lolic\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEditarEvaluacion.resources
+D:\Users\lolic\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEliminarEvaluacion.resources
+D:\Users\lolic\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmMenuModificacion.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.exe.config
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.exe
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.pdb
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.exe
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.pdb
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.csprojResolveAssemblyReference.cache
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Properties.Resources.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionEquipos.MfrmGestionEquipos.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEditarEvaluacion.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEliminarEvaluacion.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmProveedores.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.MfrmPrincipalMenu.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.csproj.GenerateResource.Cache
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEditarProveedor.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEliminarProveedor.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmMenuModificacionEva.resources
+D:\Users\lolic\Pictures\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmMenuModificacionProv.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.exe.config
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.exe
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.pdb
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.exe
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.pdb
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.csprojResolveAssemblyReference.cache
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Properties.Resources.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionEquipos.MfrmGestionEquipos.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEditarEvaluacion.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEditarProveedor.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEliminarEvaluacion.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEliminarProveedor.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmMenuModificacionEva.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmMenuModificacionProv.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmProveedores.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.MfrmPrincipalMenu.resources
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.csproj.GenerateResource.Cache
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\bin\Debug\SGSST.mdf
+C:\Users\Germa\Desktop\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\bin\Debug\SGSST_log.ldf
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.exe.config
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.exe
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.pdb
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\bin\Debug\SGSST.mdf
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\bin\Debug\SGSST_log.ldf
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.exe
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\bin\Debug\ModuloRiesgosSG-SST.pdb
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.csprojResolveAssemblyReference.cache
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Properties.Resources.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionEquipos.MfrmGestionEquipos.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEditarEvaluacion.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEditarProveedor.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEliminarEvaluacion.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmEliminarProveedor.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmMenuModificacionEva.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmMenuModificacionProv.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.GestionProveedores.MfrmProveedores.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.MfrmPrincipalMenu.resources
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG-SST.csproj.GenerateResource.Cache
+C:\Users\Germa\Documents\Visual Studio 2015\Projects\ModuloRiesgosSG-SST\ModuloRiesgosSG-SST\obj\Debug\ModuloRiesgosSG_SST.Vista.frmLoad.resources
